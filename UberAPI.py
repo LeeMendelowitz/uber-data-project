@@ -7,11 +7,6 @@ BASE = 'https://api.uber.com'
 
 class UberAPI(object):
 
-  endpoints = {
-    'products' : ('v1/products', ('longitude, latitude')),
-    'time' : ('v1/estimates/time', ('start_latitude', 'start_longitude'))
-  }
-
   def __init__(self, server_token):
       self.server_token = server_token
 

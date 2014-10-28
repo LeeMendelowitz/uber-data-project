@@ -2,7 +2,7 @@
 Quick implementation of the UBER API
 """
 import requests
-from geojson import Point, Feature
+from geojson import Point, Feature, FeatureCollection
 
 def time_json_to_str(response):
   """
@@ -29,7 +29,7 @@ def get_times_as_geojson(uber, coords):
     point = Point(coordinates = (lon,lat))
     feature = Feature(geometry = point, properties = {'uber' : time_json_to_str(res)})
     features.append(feature)
-  return features
+  return FeatureCollection(features)
 
 
 
