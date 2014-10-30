@@ -1,0 +1,1773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dupont Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0434143597,
+          38.9095980575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farragut North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0397008272,
+          38.9032019462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metro Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0280779971,
+          38.8983144732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tenleytown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0795873255,
+          38.9488514351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Van Ness UDC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0629861805,
+          38.9432652883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cleveland Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0580425191,
+          38.9347628908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodley Park Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0524180207,
+          38.9250851371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Judiciary Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0166389566,
+          38.8960903176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National Arpt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0440422943,
+          38.8534163859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenbelt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9110575731,
+          39.0111458605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadium Armory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9770889014,
+          38.8867090898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silver Spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0310178268,
+          38.9939493747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forest Glen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0429165548,
+          39.0149542752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minnesota Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9467477336,
+          38.899191223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern Market"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9960011267,
+          38.8846222608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Potomac Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9854953196,
+          38.8812632736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Federal Center SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0158682169,
+          38.8850723551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capitol South"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0051394199,
+          38.8850625009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smithsonian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0280662342,
+          38.888018702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Enfant Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021908484,
+          38.8848377279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gallery Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0219153904,
+          38.8983168097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Federal Triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0281319984,
+          38.8931808718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Union Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0074142921,
+          38.8977660392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rhode Island Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9959369166,
+          38.9210596891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brookland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9945342851,
+          38.9332109913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Totten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0022030768,
+          38.9518467675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Takoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0181766987,
+          38.976078531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virginia Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1029772942,
+          38.8833661518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "E Falls Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1568830199,
+          38.8859531663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.113168835,
+          38.8821828738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Branch Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9114642177,
+          38.8264463483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suitland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9318701589,
+          38.8439645544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Landover"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8911979676,
+          38.9335062344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Largo Town Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8420375202,
+          38.9050688072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Blvd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8680747681,
+          38.8938349282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Court House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.087131231,
+          38.8901755312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benning Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9383648681,
+          38.890975676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clarendon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0953940983,
+          38.886704839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Addison Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89410791,
+          38.8867478168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capitol Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9118081145,
+          38.8894658568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunn Loring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2271606721,
+          38.8836251359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "W Falls Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1890948225,
+          38.900780551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vienna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2726222569,
+          38.8776011238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Twinbrook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1208179517,
+          39.0624676517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Flint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.112829859,
+          39.0481513573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grosvenor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.10384972,
+          39.02926895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medical Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0969522905,
+          39.0000564843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huntington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0752057891,
+          38.7939158529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eisenhower Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0708743893,
+          38.8004254497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shady Grove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1646273343,
+          39.1199273249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1461253392,
+          39.0843216075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0030204472,
+          38.9070162121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pentagon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0537156734,
+          38.8694627012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0502898097,
+          38.8579043204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pentagon City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0595389215,
+          38.8618823867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince Georges Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9558815078,
+          38.9653854458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Hyattsville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9695766751,
+          38.9550401707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Totten:1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0022030768,
+          38.9518467675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georgia Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.023460904,
+          38.9374346301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbia Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0325521177,
+          38.9278379675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "U Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0274958929,
+          38.9170023992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metro Center:1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0280779971,
+          38.8983144732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt Vernon Sq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0219143803,
+          38.9064368149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farragut West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0406954151,
+          38.9013128941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McPherson Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0336341721,
+          38.9013327968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosslyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0709086853,
+          38.8959790962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foggy Bottom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.050277739,
+          38.9006980092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shaw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0219117007,
+          38.9134768711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arlington Cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0628101291,
+          38.8846868585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "College Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9281249818,
+          38.9786336339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franconia-Springf'ld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1679701804,
+          38.7665218926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0608112085,
+          38.8065861172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Braddock Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.053667574,
+          38.8141436672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern Ave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9750541388,
+          38.8410857803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naylor Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9562627094,
+          38.8513013835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterfront"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0175052088,
+          38.8764618668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navy Yard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0050856513,
+          38.8764810849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anacostia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9953707387,
+          38.8629631168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Congress Height"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9885119326,
+          38.8456577028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Van Dorn St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1291115237,
+          38.799307672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gallery Place:1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0219153904,
+          38.8983168097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Archives"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0219143879,
+          38.8936652235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Enfant Plaza:1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021908484,
+          38.8848377279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wheaton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0501070535,
+          39.0375271436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glenmont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0535573593,
+          39.0617837655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethesda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0941291922,
+          38.9843936603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friendship Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.084995805,
+          38.9594838736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Carrollton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8718412865,
+          38.9477848558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deanwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.935256783,
+          38.9081784965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheverly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.916628044,
+          38.9166318546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "E Capiton and 61 SE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99836730957031,
+          38.889763509129224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "H and 61 NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99836730957031,
+          38.90018460127184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rhode Island and 1 NW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0121431350708,
+          38.91566311195524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Logan Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02960968017578,
+          38.909702531719624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "16 and W NW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03634738922119,
+          38.91928596513094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalorama and 23 NW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05079913139343,
+          38.91776672663985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisconsin and Calvert NW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0731258392334,
+          38.92255806063647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cathedral Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07746028900146,
+          38.9255295268296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington National Cathedral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07042217254639,
+          38.931705771812474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "US Naval Observatory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06698894500732,
+          38.921389472420856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American University (Yuma)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08085060119629,
+          38.945491881050415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American University "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08951950073242,
+          38.93741414701526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brightwood Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02493190765381,
+          38.957139554532766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chevy Chase (Oregon Ave)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05450057983398,
+          38.971154274048345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lafayette Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06780433654785,
+          38.96771758751417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rock Creek Park and Pine Branch Parkway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04591751098633,
+          38.96054338416325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "16th Street Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03312873840332,
+          38.95059840333903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rock Creek Cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01201438903809,
+          38.94779486801617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sherman Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02188491821289,
+          38.947310913196375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grant Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01924562454224,
+          38.9430553061457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park View"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02360153198242,
+          38.931972840546436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catholic University of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99995517730713,
+          38.939049795565374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99347496032715,
+          38.94005119442427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brentwood Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98437690734863,
+          38.92088864300798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Langdon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9734764099121,
+          38.92315904136713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trinidad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9841194152832,
+          38.905728533469706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Randle Highlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96592330932617,
+          38.870052777060295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anacostia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98394775390625,
+          38.866043145522006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garfield Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96918487548827,
+          38.85601807727082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Congress Heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0005989074707,
+          38.842649121076455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bellevue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0090103149414,
+          38.82633559229756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isherwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97914123535156,
+          38.894105816686796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foxhall Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08471298217773,
+          38.91200668090932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forest Hills"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0584487915039,
+          38.95046490417139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Cleveland Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07012176513672,
+          38.950865400919994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York Ave and Bladensburg NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97218894958496,
+          38.91734934773269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gateway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96334838867188,
+          38.920821865485834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brookland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98463439941405,
+          38.932974339342465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00557708740234,
+          38.93043718159313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eckington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00643539428711,
+          38.91467806459579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt Vernon Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02298998832703,
+          38.90253915548077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomas Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03197002410889,
+          38.905661741682266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Ellipse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03656196594238,
+          38.89392210905286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Potomac Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04651832580566,
+          38.886456496854805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "US Department of State"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04838514328003,
+          38.89438137724673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Truxton Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01519012451172,
+          38.91000307716011
+        ]
+      }
+    }
+  ]
+}
